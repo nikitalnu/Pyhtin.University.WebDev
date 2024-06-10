@@ -51,7 +51,7 @@ Week 4:
 - Review and optimize CI/CD pipeline for smoother deployment process
 
 Week 5:
-- Implement feature: Recipe Comments section for user interaction
+- Implement feature: Recipe Comments section for user interaction :heavy_check_mark:
 - Develop recipe ratings system for user feedback
 - Write detailed project documentation covering architecture and infrastructure
 - Refine and expand Postman collection for comprehensive testing
